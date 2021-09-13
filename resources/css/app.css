@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.background-image{
+    background-image: url('https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
